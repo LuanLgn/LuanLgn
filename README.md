@@ -17,7 +17,7 @@
   <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/260955267670212609/a_bc9fa96a8d6c42694a4ddc1b5902bb79.gif?size=4096">
+  <img align="right" alt="Luan-pic" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/260955267670212609/a_bc9fa96a8d6c42694a4ddc1b5902bb79.gif?size=4096">
   
 </div>
 
