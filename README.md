@@ -3,7 +3,7 @@
 - 🌱 Estudando Typescript 
 - 🎓 Cursando 2º Semestre em ADS
 - ❤️ Fatec - MC
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/LuanLgn">
