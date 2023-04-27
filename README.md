@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luan Tolosa
 
 - 🌱 Estudando Typescript 
-- 🎓 Fatec - MC
+- 🎓 Cursando 2º Semestre em ADS
 - 😄 Pronouns: ele/dele
 
 <div>
