@@ -2,6 +2,7 @@
 
 - 🌱 Estudando Typescript 
 - 🎓 Cursando 2º Semestre em ADS
+- ❤️ Fatec - MC
 - 😄 Pronouns: ele/dele
 
 <div>
