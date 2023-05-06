@@ -33,8 +33,8 @@
 
 <div>
   <a href="https://github.com/LuanLgn">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=luanlgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanlgn&layout=compact&langs_count=168&theme=tokyonight"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=luanlgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanlgn&layout=compact&langs_count=168&theme=tokyonight"/>
 </div>
   
 
