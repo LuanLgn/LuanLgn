@@ -1,7 +1,10 @@
+[//]: # (Wallpaper do começo.)
 
- <img width="125%" src="https://cdn.discordapp.com/attachments/1104264818132787205/1104264867894022144/wallpaper.png"/>
+<img width="125%" src="https://cdn.discordapp.com/attachments/1104264818132787205/1104264867894022144/wallpaper.png"/>
 
 <br>
+
+[//]: # (Sobre mim.)
 
 <div>
   <h3 align="center">🎓 Sou um aluno do 2º semestre de Análise e Desenvolvimento de Sistemas na Fatec 🏛️. Sou apaixonado por tecnologia e estou sempre em busca de aprender e trabalhar com novas tecnologias e domínios. 💻.</h3>
@@ -11,6 +14,8 @@
 </div>
 
 <br>
+
+[//]: # (Tecnologias.)
 
 <div>
   <h1 align="center">Tecnologias 🌱</h1>
@@ -27,7 +32,7 @@
   </br>
 </div>
 
-
+[//]: # (Stats.)
 
 <h1 align="center">Meu Status Github ⚡</h1>
 
@@ -37,13 +42,15 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanlgn&layout=compact&langs_count=168&theme=tokyonight"/>
 </div>
   
-
-  
 <br>
+ 
+[//]: # (Cobrinha.)
 
   <div align="center">
   <img src="https://github.com/LuanLgn/LuanLgn/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
+ 
+[//]: # (Me Contate.)
   
 <h1 align="center">Me Contate ✉️</h1>
 
@@ -58,4 +65,3 @@
   <br>
   <img align="center" height="220" alt="Luan-pic" src="https://cdn.discordapp.com/avatars/260955267670212609/a_bc9fa96a8d6c42694a4ddc1b5902bb79.gif?size=4096">
 </div>
-
