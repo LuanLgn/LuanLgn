@@ -7,8 +7,8 @@
 [//]: # (Sobre mim.)
 
 <div>
-  <h3 align="center">🎓 Sou um aluno do 2º semestre de Análise e Desenvolvimento de Sistemas na Fatec 🏛️. Sou apaixonado por tecnologia e estou sempre em busca de aprender e trabalhar com novas tecnologias e domínios. 💻.</h3>
-   <h3 align="center">Gosto de explorar diferentes tecnologias e utilizá-las para solucionar problemas da vida real 💡, especialmente no desenvolvimento de aplicações web front-end, onde tenho me dedicado atualmente ao estudo do TypeScript 🌐.</h3>
+  <h3 align="center">🎓 Sou um aluno do curso de Análise e Desenvolvimento de Sistemas na Fatec 🏛️. Sou apaixonado por tecnologia e estou sempre em busca de aprender e trabalhar com novas tecnologias e domínios. 💻.</h3>
+   <h3 align="center">Gosto de explorar diferentes tecnologias e utilizá-las para solucionar problemas da vida real 💡, especialmente no desenvolvimento de aplicações web front-end, onde tenho me dedicado atualmente ao estudo do React Js. 🌐.</h3>
   <h3 align="center">Sou um aprendiz dedicado e sempre disposto a enfrentar novos desafios. Acredito que minha curiosidade e sede por conhecimento são meus maiores trunfos. Sempre procuro me manter atualizado e estudar temas relevantes na área de tecnologia ✨.</h3>
   <h3 align="center">Estou sempre aberto a novas ideias e estou constantemente buscando soluções criativas para os problemas que encontro. Acredito que é essa busca incessante por novos conhecimentos e ideias que me fazem um estudante apaixonado e dedicado. Estou animado para ver onde essa jornada em Análise e Desenvolvimento de Sistemas me levará e estou ansioso para explorar o que o futuro reserva para mim 😵‍💫.</h3>
 </div>
@@ -44,11 +44,6 @@
   
 <br>
  
-[//]: # (Cobrinha.)
-
-  <div align="center">
-  <img src="https://github.com/LuanLgn/LuanLgn/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</div>
  
 [//]: # (Me Contate.)
   
