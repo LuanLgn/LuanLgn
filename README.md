@@ -1,48 +1,29 @@
 [//]: # (Wallpaper do começo.)
 
-<img width="125%" src="https://cdn.discordapp.com/attachments/1104264818132787205/1104264867894022144/wallpaper.png"/>
+<img width="125%" src="https://camo.githubusercontent.com/9202a2bd1ee3b0a4ddaf1df3f31d5b3c2016e05974d7aa0b427475338f5ff839/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313631623232"/>
 
 <br>
 
 [//]: # (Sobre mim.)
 
 <div>
-  <h3 align="center">🎓 Sou um aluno do curso de Análise e Desenvolvimento de Sistemas na Fatec 🏛️. Sou apaixonado por tecnologia e estou sempre em busca de aprender e trabalhar com novas tecnologias e domínios. 💻.</h3>
-   <h3 align="center">Gosto de explorar diferentes tecnologias e utilizá-las para solucionar problemas da vida real 💡, especialmente no desenvolvimento de aplicações web front-end, onde tenho me dedicado atualmente ao estudo do React Js. 🌐.</h3>
-  <h3 align="center">Sou um aprendiz dedicado e sempre disposto a enfrentar novos desafios. Acredito que minha curiosidade e sede por conhecimento são meus maiores trunfos. Sempre procuro me manter atualizado e estudar temas relevantes na área de tecnologia ✨.</h3>
-  <h3 align="center">Estou sempre aberto a novas ideias e estou constantemente buscando soluções criativas para os problemas que encontro. Acredito que é essa busca incessante por novos conhecimentos e ideias que me fazem um estudante apaixonado e dedicado. Estou animado para ver onde essa jornada em Análise e Desenvolvimento de Sistemas me levará e estou ansioso para explorar o que o futuro reserva para mim 😵‍💫.</h3>
+  <ul>
+    <li>📖 Atualmente estudando React Js</li>
+    <li>🔥 Skills: JavaScript, TypeScript, React Js, HTML, CSS</li>
+  </ul>
 </div>
 
 <br>
 
-[//]: # (Tecnologias.)
-
-<div>
-  <h1 align="center">Tecnologias 🌱</h1>
-  
-  <div align="center" >
-    <img align="center" alt="Luan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Luan-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Luan-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Luan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Luan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
-  </br>
-  </br>
-</div>
-
 [//]: # (Stats.)
 
-<h1 align="center">Meu Status Github ⚡</h1>
-
 <div align="center">
+  <h1 align="center">Meu Status Github ⚡</h1>
   <a href="https://github.com/LuanLgn">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanlgn&layout=compact&langs_count=168&theme=tokyonight"/>
 </div>
   
 <br>
- 
  
 [//]: # (Me Contate.)
   
