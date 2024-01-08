@@ -1,6 +1,6 @@
 [//]: # (Wallpaper do começo.)
 <div style="text-align: center;">
-  <img width="120%" src="https://camo.githubusercontent.com/9202a2bd1ee3b0a4ddaf1df3f31d5b3c2016e05974d7aa0b427475338f5ff839/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313631623232"/>
+
 </div>
 
 <br> <!-- Linha adicional para espaçamento -->
@@ -43,5 +43,5 @@
 <br> <!-- Linha adicional para espaçamento -->
 
 <div style="text-align: center;">
-  <img width="125%" src="https://camo.githubusercontent.com/ac40bbbb8f0df328a70d77947551d67813e1a7b1ccd14364327b46914924b8ef/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313631623232266865696768743d3132302673656374696f6e3d666f6f746572"/>
+  
 </div>
