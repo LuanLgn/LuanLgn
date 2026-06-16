@@ -1,41 +1,35 @@
-# Olá, eu sou o Luan Tolosa! 👋
+# Luan Tolosa | QA Automation Engineer | Cypress · Python · LLM Testing · GCP
 
-### QA Engineer | SDET | Automação com Python & IA
+Engenheiro de QA na ColmeIA com foco em **LLM Testing** e automação de alta performance. Especialista em validar a precisão, segurança e consistência de sistemas baseados em IA, integrando testes de NLP com infraestrutura em nuvem (GCP e BigQuery). 
 
-Sou um Analista de Qualidade focado em transformar a garantia de software através de **automação inteligente** e **segurança ofensiva**. Utilizo Python e JavaScript para criar soluções que aceleram o ciclo de entrega (SDLC) e garantem a resiliência dos produtos.
+Minha abordagem combina o *Shift-Left Testing* com a geração de dados sintéticos para garantir qualidade e conformidade (LGPD) em fluxos de dados complexos e chatbots em produção.
 
----
+### Stack Técnica
 
-### 🛠️ Minha Stack Técnica
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-cloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-- **Linguagens:** Python, JavaScript (Node.js)
-- **Automação & QA:** Selenium, Pytest, Postman (API), RPA
-- **Performance & Segurança:** K6, Burp Suite
-- **Inteligência Artificial:** Integração de LLMs para Synthetic Data e AI-Assisted Scripting
-- **Processos:** BPMN, Metodologias Ágeis, Git
+### Projetos em Destaque
 
----
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [cypress-e2e-framework](https://github.com/LuanLgn/cypress-e2e-framework) | Framework E2E com Cypress, POM, Allure e GitHub Actions | Cypress · JS · CI |
+| [synthetic-data-generator](https://github.com/LuanLgn/synthetic-data-generator) | CLI Python para geração de dados sintéticos LGPD-safe | Python · Faker · pytest |
+| [ai-test-scenario-generator](https://github.com/LuanLgn/ai-test-scenario-generator) | Gera cenários Gherkin a partir de user stories via LLM | Python · OpenAI · BDD |
+| [api-testing-python](https://github.com/LuanLgn/api-testing-python) | Framework de API testing com pytest, requests e schema validation | Python · pytest · REST |
+| [llm-testing-framework](https://github.com/LuanLgn/llm-testing-framework) | Avalia LLMs: relevância, consistência, segurança e viés | Python · LLM · pytest |
 
-### 🤖 Foco em IA e Produtividade
+### Contato
 
-Acredito que a IA é o braço direito do QA moderno. Meus projetos atuais focam em:
-- **Synthetic Data:** Geração de massas de dados via IA para testes em conformidade com a LGPD.
-- **AI-Assisted Scripting:** Uso de modelos de linguagem para aceleração de frameworks de automação.
-- **Análise de Logs:** Triagem inteligente de bugs através de análise de dados.
-
----
-
-### 🚀 Projetos em Destaque
-
-*(Dica: Aqui você deve linkar seus repositórios de QA conforme for criando)*
-
-- 🐍 **[Framework-Automação-Python]**: Testes E2E com Selenium e Pytest seguindo padrão Page Object Model.
-- 🛡️ **[Security-Testing-Lab]**: Documentação de vulnerabilidades encontradas em labs usando Burp Suite.
-- 🤖 **[RPA-Automation-JS]**: Automação de processos operacionais utilizando JavaScript.
-
----
-
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-tolosa-408852257)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luan.tolosa7@gmail.com)
+- **LinkedIn:** [linkedin.com/in/luan-tolosa](https://www.linkedin.com/in/luan-tolosa/)
+- **Email:** luan.tolosa@colmeia.cx
